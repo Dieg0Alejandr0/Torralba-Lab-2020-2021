@@ -6,17 +6,20 @@ render.cpp is a modified script from Facebook's Replica repository, so all right
 for being a helpful guide during my time as a UROP at the Torralba Lab. 
 
 
-## References
+## How To Run!
+As mentioned above, please use "render.cpp" to produce a needed 2D dataset for GAN training. The produced model snapshot can be then used in "Interpolation.ipynb" to produce the needed model analysis for scene understanding. Please refer to the libraries/packages listed below for any software requirements for running the code. Please consult the bibliographic references to learn more about the GANs used and the LPIPS metric!
+
+## Bibliographic References
 
 [ProgressiveGAN](https://arxiv.org/pdf/1710.10196.pdf), 
 [StyleGAN](https://arxiv.org/pdf/1812.04948.pdf),
 [LPIPS](https://arxiv.org/pdf/1801.03924.pdf)
 
-## Dataset(s)
+## Relevant Dataset(s)
 
 [Facebook's Replica](https://github.com/facebookresearch/Replica-Dataset)
 
-## Libraries/Packages Required
+## Software Libraries/Packages Required
 
 C++: 
 [Replica](https://github.com/facebookresearch/Replica-Dataset),
