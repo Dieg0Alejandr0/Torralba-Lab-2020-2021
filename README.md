@@ -7,7 +7,7 @@ for being a helpful guide during my time as a UROP at the Torralba Lab.
 
 
 ## How To Run!
-As mentioned above, please use "render.cpp" to produce a needed 2D dataset for GAN training. The produced model snapshot can be then used in "Interpolation.ipynb" to produce the needed model analysis for scene understanding. Please refer to the libraries/packages listed below for any software requirements for running the code. Please consult the bibliographic references to learn more about the GANs used and the LPIPS metric!
+As mentioned above, please use "render.cpp" to produce a needed 2D dataset for GAN training. The produced model snapshot can then be used in "Interpolation.ipynb" to produce the needed model analysis for scene understanding. Please refer to the libraries/packages listed below for any software requirements for running the code. Please consult the bibliographic references to learn more about the GANs used and the LPIPS metric!
 
 ## Bibliographic References
 
